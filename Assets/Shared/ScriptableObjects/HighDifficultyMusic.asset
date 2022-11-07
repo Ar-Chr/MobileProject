@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eda9a78501633744a80c9223c94a7612, type: 3}
+  m_Name: HighDifficultyMusic
+  m_EditorClassIdentifier: 
+  music:
+  - {fileID: 8300000, guid: bfb30e036dcdf424185b8f32fcaa2a6d, type: 3}
+  - {fileID: 8300000, guid: 0e5ded0656d3d4e7da5c34aef9fe3158, type: 3}
+  - {fileID: 8300000, guid: aaffa77bbbfeb4d2b946477ba5040c1f, type: 3}

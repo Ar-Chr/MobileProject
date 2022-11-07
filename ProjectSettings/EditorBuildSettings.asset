@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Shared/Scenes/MainMenu.unity
+    guid: 645af17da32febe4f987713e0aa27650
+  - enabled: 1
+    path: Assets/Shared/Scenes/PersistentObjects.unity
+    guid: faf535824c88c6e4781948877ba821b3
+  - enabled: 1
+    path: Assets/Shared/Scenes/Levels/LowDifficulty/Level1_LowDiff.unity
+    guid: d4147d6006b7f5f4fa8598610b611616
+  - enabled: 1
+    path: Assets/Shared/Scenes/Levels/LowDifficulty/Level2_LowDiff.unity
+    guid: 788d4e3c7389e8c42b8870cb2b226556
+  - enabled: 1
+    path: Assets/Shared/Scenes/Levels/LowDifficulty/Level3_LowDiff.unity
+    guid: 4cf5ab12e83dfda408306acc4def65e9
+  - enabled: 1
+    path: Assets/Shared/Scenes/Levels/LowDifficulty/Level4_LowDiff.unity
+    guid: cb17e78ee30e059488d5553d88967a21
+  - enabled: 1
+    path: Assets/Shared/Scenes/Levels/HighDifficulty/Level3_HighDiff.unity
+    guid: b2a870460ed66fc4bbade053b169a4b1
+  - enabled: 1
+    path: Assets/Shared/Scenes/Levels/HighDifficulty/Level2_HighDiff.unity
+    guid: 40b4aa950cebafa42acf140644b31bf7
+  - enabled: 1
+    path: Assets/Shared/Scenes/Levels/HighDifficulty/Level1_HighDiff.unity
+    guid: 22274c08bf9ef564cbb9e8699d127107
+  m_configObjects: {}

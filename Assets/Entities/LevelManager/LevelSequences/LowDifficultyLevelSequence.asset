@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7682507e587766a41a4ed699fec4db94, type: 3}
+  m_Name: LowDifficultyLevelSequence
+  m_EditorClassIdentifier: 
+  sequence:
+  - SceneName: Level1_LowDiff
+    ScenePath: Assets/Shared/Scenes/Levels/LowDifficulty/Level1_LowDiff.unity
+  - SceneName: Level2_LowDiff
+    ScenePath: Assets/Shared/Scenes/Levels/LowDifficulty/Level2_LowDiff.unity
+  - SceneName: Level3_LowDiff
+    ScenePath: Assets/Shared/Scenes/Levels/LowDifficulty/Level3_LowDiff.unity
+  - SceneName: Level4_LowDiff
+    ScenePath: Assets/Shared/Scenes/Levels/LowDifficulty/Level4_LowDiff.unity
